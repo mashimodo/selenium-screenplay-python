@@ -1,4 +1,4 @@
-# selenium-screenplay-python
+# Selenium-screenplay-python
 
 This repository contains an example project
 using [Selenium WebDriver](https://www.selenium.dev/)
